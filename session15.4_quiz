@@ -1,0 +1,31 @@
+Quiz
+
+ 1) in MVC - C stands for  
+ Console  
+ Controller  --correct
+ View  
+ None  
+
+ 2) Controller can be created using  
+ rails g controller  --correct
+ rails create controller 
+ rails g scaffold  
+ None  
+
+ 3) Controller is denoted as  
+  Action Controller  --correct
+  Active Record  
+  Action Pack  
+  None  
+
+  4) Controller is responsilbe for   
+  receiving request  
+  giving responses  
+  routing  
+  All the above  --correct
+
+  5) Which controller file will be generated with Rails application by default?  
+  application_controller.rb  --correct
+  application.html.erb 
+  application helper  
+ 	None  
